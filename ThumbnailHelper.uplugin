@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ThumbnailHelper",
+	"Description": "This is a tool for quickly generating thumbnails in batches (no matter what type of assets you have)",
+	"Category": "Other",
+	"CreatedBy": "Hiko",
+	"CreatedByURL": "https://github.com/Hikohikoyan/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
